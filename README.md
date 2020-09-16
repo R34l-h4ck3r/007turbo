@@ -1,17 +1,4 @@
 <h1>007 Turbo </h1>
-<p><a href="https://github.com/R34l-h4ck3r/007turbo"><img  style-"max-width:100%;"></a>
-<a href="https://github.com/R34l-h4ck3r/007turbo"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stge" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style-"max-width:100%;"></a>
-<a href="https://github.com/R34l-h4ck3r/007turbo"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brihtgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brihtgreengreen.svg" style="max-width:100%;"></a></p>
-<p><h1>Auto Instagram username Hunter 🔎 </h1>
-
-<h2>007 Turbo</h2>
-
-
-<img src="https://i.imgur.com/kQ3aEqz.jpg" data-canonical-src="https://i.imgur.com/kQ3aEqz.jpg" style="max-width:100%;">
-
-
-
-
 <h2>Usage</h2>
 
 <h2>Example</h2>
